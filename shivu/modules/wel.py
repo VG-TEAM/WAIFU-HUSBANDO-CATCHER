@@ -1,4 +1,4 @@
-from shivu import app
+from shivu import shivuu as app
 from pyrogram import Client, filters
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.errors import (
@@ -15,7 +15,7 @@ from PIL import Image, ImageDraw, ImageFont
 from os import environ
 import requests
 import random
-from shivu import app
+from shivu import shivuu as app
 from pyrogram import *
 from pyrogram.types import *
 import random
